@@ -1,4 +1,4 @@
-
+#install modul Plotly dan Tkinter
 
 import tkinter as tk
 from tkinter import *
